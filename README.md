@@ -22,9 +22,7 @@
   <a href="https://www.instagram.com/jess.raposo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessicaraposo.tralli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicalraposo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img>
-     ![Snake animation](https://github.com/jlraposo-hub/jlraposo-hub/blob/output/github-contribution-grid-snake.svg)
-  </img>
+  <img src=https://github.com/jlraposo-hub/jlraposo-hub/blob/output/github-contribution-grid-snake.svg/>
 </div>
 <!---
 jlraposo-hub/jlraposo-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
